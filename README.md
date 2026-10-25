@@ -1,13 +1,6 @@
 # Applied-Statistics-Project
 Three Applied Statistics projects comparing classical and Bayesian methods: hierarchical Bernoulli models, Bayesian regression with MCMC diagnostics, and survival analysis with lifelines.
 
-# Applied Statistics – Course Projects
-
-Three Google Colab notebooks from the **Applied Statistics** course (B.Sc. Statistics & Data Science, 3rd year).
-Each notebook takes a real dataset and solves the same problem two ways: with **classical (frequentist) statistics** and with **Bayesian / modern methods**. It then compares the results and discusses when each approach fits.
-
-Every section ends with a short *Lecture question → Answer* block that explains the theory behind the code and points out the method's weaknesses.
-
 ---
 
 ## Projects
